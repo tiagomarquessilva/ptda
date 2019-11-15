@@ -13,6 +13,7 @@ Resumidamente, o objetivo deste projeto é construir uma aplicação que utiliza
 - Java Swing;
 - [PostgreSQL](https://www.postgresql.org/);
 - Sockets;
+- [Git](https://git-scm.com/);
 - UML.
 
 ## Instalação
