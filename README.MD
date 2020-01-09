@@ -29,7 +29,7 @@ Resumidamente, o objetivo deste projeto é construir uma aplicação que utiliza
 ## Autores
 
 Os autores foram os seguintes alunos da Universidade de Aveiro:
-- Ana Castro Nº Mec. 87908);
+- Ana Castro (Nº Mec. 87908);
 - Hugo Neves (Nº Mec. 88167);
 - João Santos (Nº Mec. 88007);            
 - Rafael Faustino (Nº Mec. 80914);               
